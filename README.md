@@ -16,8 +16,9 @@ Explain how to run your project once it's installed. Include any command-line in
 
 ## Course Weeks and Course Co
 
-| Week | Course Content | Course Co |
-|------|----------------|-----------|
-| 1    | Topic 1        | Name 1    |
-| 2    | Topic 2        | Name 2    |
-| 3    | Topic 3        | Name 3    |
+
+--|--
+Week | Course Content  
+week1 | Topic 1        
+week2 | Topic 2  
+week3 | Topic 3 
